@@ -1,0 +1,1568 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "day",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "style": "emphasis",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "day",
+                            "horizontalAlignment": "center",
+                            "text": "Day"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "date",
+                    "separator": true,
+                    "style": "emphasis",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "date",
+                            "horizontalAlignment": "center",
+                            "text": "Date"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "holiday",
+                    "separator": true,
+                    "style": "emphasis",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "holiday",
+                            "horizontalAlignment": "center",
+                            "text": "Holiday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "center",
+                    "separator": true,
+                    "style": "emphasis",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "type",
+                            "horizontalAlignment": "center",
+                            "text": "Type"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "1jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "1jan",
+                            "horizontalAlignment": "Center",
+                            "text": "Tuesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "1jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "1jan",
+                            "horizontalAlignment": "Center",
+                            "text": "1 - Jan"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "New Year's Day"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Fixed"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "1jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "14jan",
+                            "horizontalAlignment": "Center",
+                            "text": "Monday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "14jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "14jan",
+                            "horizontalAlignment": "Center",
+                            "text": "14 - Jan"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Makar Sankranti"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "1jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "15jan",
+                            "horizontalAlignment": "Center",
+                            "text": "Tuesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "15jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "15jan",
+                            "horizontalAlignment": "Center",
+                            "text": "15 - Jan"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Pongal"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "26jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "26jan",
+                            "horizontalAlignment": "Center",
+                            "text": "Saturday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "26jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "26jan",
+                            "horizontalAlignment": "Center",
+                            "text": "26 - Jan"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Replublic Day"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Holiday on weekend"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "10feb",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "1jan",
+                            "horizontalAlignment": "Center",
+                            "text": "Sunday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "10feb",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "10feb",
+                            "horizontalAlignment": "Center",
+                            "text": "10 - Feb"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Vasant Panchami"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "4mar",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "4mar",
+                            "horizontalAlignment": "Center",
+                            "text": "Monday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "4mar",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "4mar",
+                            "horizontalAlignment": "Center",
+                            "text": "4 - Mar"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Maha Shivaratri"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "21mar",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "21mar",
+                            "horizontalAlignment": "Center",
+                            "text": "Thursday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "21mar",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "21mar",
+                            "horizontalAlignment": "Center",
+                            "text": "21 - Mar"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Holi"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Fixed"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "13apr",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "13apr",
+                            "horizontalAlignment": "Center",
+                            "text": "Saturday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "13apr",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "13apr",
+                            "horizontalAlignment": "Center",
+                            "text": "13 - Apr"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Ram Navami"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Holidy on weekend"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "14apr",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "14apr",
+                            "horizontalAlignment": "Center",
+                            "text": "Sunday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "14apr",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "14apr",
+                            "horizontalAlignment": "Center",
+                            "text": "14 - Apr"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Vaisakhi"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Holiday on weekend"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "19apr",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "19apr",
+                            "horizontalAlignment": "Center",
+                            "text": "Friday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "19apr",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "19apr",
+                            "horizontalAlignment": "Center",
+                            "text": "19 - Apr"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Good Friday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "24may",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "24may",
+                            "horizontalAlignment": "Center",
+                            "text": "Friday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "24may",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "24may",
+                            "horizontalAlignment": "Center",
+                            "text": "24 - May"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Nagarro's Day of Reason"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "15jun",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "15jun",
+                            "horizontalAlignment": "Center",
+                            "text": "Wednesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "15jun",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "15jun",
+                            "horizontalAlignment": "Center",
+                            "text": "15 - Jun"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Idul Fitr*"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "12aug",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "12aug",
+                            "horizontalAlignment": "Center",
+                            "text": "Monday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "12aug",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "12aug",
+                            "horizontalAlignment": "Center",
+                            "text": "12 - Aug"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Idul Juha*"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "15aug",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "15aug",
+                            "horizontalAlignment": "Center",
+                            "text": "Thursday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "15aug",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "15aug",
+                            "horizontalAlignment": "Center",
+                            "text": "14 - Aug"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Independence Day and Raksha Bandhan"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Fixed"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "24aug",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "24aug",
+                            "horizontalAlignment": "Center",
+                            "text": "Saturday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "24aug",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "24aug",
+                            "horizontalAlignment": "Center",
+                            "text": "24 - Aug"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Janmahstami"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Holiday on weekend"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "2sep",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "2sep",
+                            "horizontalAlignment": "Center",
+                            "text": "Monday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "2sep",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "2sep",
+                            "horizontalAlignment": "Center",
+                            "text": "2 - Sep"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Ganesh Chaturthi"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "11sep",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "11sep",
+                            "horizontalAlignment": "Center",
+                            "text": "Wednesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "11sep",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "11sep",
+                            "horizontalAlignment": "Center",
+                            "text": "11 - Sep"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Onam"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "2oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "2oct",
+                            "horizontalAlignment": "Center",
+                            "text": "Wednesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "2oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "2oct",
+                            "horizontalAlignment": "Center",
+                            "text": "2 - Oct"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Gandhi Jayanti"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Fixed"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "1jan",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "8oct",
+                            "horizontalAlignment": "Center",
+                            "text": "Tuesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "8oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "8oct",
+                            "horizontalAlignment": "Center",
+                            "text": "8 - Oct"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "spacing": "None",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Dussehra"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Fixed"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "27oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "27oct",
+                            "horizontalAlignment": "Center",
+                            "text": "Sunday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "27oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "27oct",
+                            "horizontalAlignment": "Center",
+                            "text": "27 - Oct"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Diwali"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Holiday on weekend"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "28oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "28oct",
+                            "horizontalAlignment": "Center",
+                            "text": "Monday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "28oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "28oct",
+                            "horizontalAlignment": "Center",
+                            "text": "28 - Oct"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Diwali"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Fixed"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "29oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "29oct",
+                            "horizontalAlignment": "Center",
+                            "text": "Tuesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "29oct",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "29oct",
+                            "horizontalAlignment": "Center",
+                            "text": "29 - Oct"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Bhai Dooj"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "12nov",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "12nov",
+                            "horizontalAlignment": "Center",
+                            "text": "Tuesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "12nov",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "12nov",
+                            "horizontalAlignment": "Center",
+                            "text": "12 - Nov"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Guru Nanak Jayanti"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "25dec",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "25dec",
+                            "horizontalAlignment": "Center",
+                            "text": "Wednesday"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "25dec",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "25dec",
+                            "horizontalAlignment": "Center",
+                            "text": "25 - Dec"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Christmas"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Fixed"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "TBD",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "TBD",
+                            "horizontalAlignment": "Center",
+                            "text": "TBD"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "TBD",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "TBD",
+                            "horizontalAlignment": "Center",
+                            "text": "TBD"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Haryana Election Day"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "TBD",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "TBD",
+                            "horizontalAlignment": "Center",
+                            "text": "TBD"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "id": "TBD",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "TBD",
+                            "horizontalAlignment": "Center",
+                            "text": "TBD"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "horizontalAlignment": "Left",
+                    "separator": true,
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "General Election Day"
+                        }
+                    ],
+                    "width": "stretch"
+                },
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "horizontalAlignment": "Center",
+                            "text": "Flexible"
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "TextBlock",
+            "text": "\\* these holidays  may change as per  the Lunar calender changes/updates.",
+            "wrap": true
+          }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

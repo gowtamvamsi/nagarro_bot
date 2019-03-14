@@ -1,0 +1,27 @@
+{
+    "name": "Test1",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+
+        {
+            "type": "luis",
+            "name": "UserInfoLuisBot",
+            "endpoint": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/832ff64f-fd32-4edb-94ed-5ec3990dadaa?verbose=true&timezoneOffset=-360&subscription-key=36674c992b3f4d76ba14034e68e4ae10&q=",
+            "appId": "832ff64f-fd32-4edb-94ed-5ec3990dadaa",
+            "version": "0.1",
+            "authoringKey": "36674c992b3f4d76ba14034e68e4ae10",
+            "subscriptionKey": "36674c992b3f4d76ba14034e68e4ae10",
+            "region": "westus",
+            "id": "158"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
